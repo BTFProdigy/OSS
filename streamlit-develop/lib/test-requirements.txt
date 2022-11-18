@@ -24,3 +24,4 @@ sqlalchemy
 tensorflow>2.2.0
 torch
 torchvision
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
