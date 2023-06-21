@@ -33,7 +33,7 @@
     "mime": "^2.5.0",
     "qs": "^6.9.6",
     "readable-stream": "^3.6.0",
-    "semver": "^7.3.4"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.16",
