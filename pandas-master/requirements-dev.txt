@@ -1,7 +1,7 @@
 # This file is auto-generated from environment.yml, do not modify.
 # See that file for comments about the need/usage of each dependency.
 
-numpy>=1.16.5
+numpy>=1.22.2
 python-dateutil>=2.7.3
 pytz
 asv
@@ -48,7 +48,7 @@ pip
 blosc
 bottleneck>=1.2.1
 ipykernel
-ipython>=7.11.1
+ipython>=8.10.0
 jinja2
 matplotlib>=2.2.2
 numexpr>=2.6.8
@@ -78,3 +78,10 @@ tabulate>=0.8.3
 natsort
 git+https://github.com/pandas-dev/pydata-sphinx-theme.git@2488b7defbd3d753dd5fcfc890fc4a7e79d25103
 numpydoc < 1.2
+aiobotocore>=2.9.1 # not directly required, pinned by Snyk to avoid a vulnerability
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-server>=2.11.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
