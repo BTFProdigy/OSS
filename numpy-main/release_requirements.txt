@@ -15,3 +15,4 @@ twine
 # building and notes
 Paver
 git+https://github.com/hawkowl/towncrier.git@master
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
