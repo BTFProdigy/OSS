@@ -1,5 +1,5 @@
 mypy-protobuf==1.20
-pipenv==2018.11.26
+pipenv==2022.1.8
 recommonmark==0.6.0
 Sphinx==3.0.3
 sphinx-rtd-theme==0.4.3
