@@ -78,3 +78,4 @@ tabulate>=0.8.3
 natsort
 git+https://github.com/pandas-dev/pydata-sphinx-theme.git@2488b7defbd3d753dd5fcfc890fc4a7e79d25103
 numpydoc < 1.2
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
